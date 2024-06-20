@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.mrjulsen.dragnsounds",
+    "module": "dragnsounds-forge",
+    "version": "1.18.2-0.1.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-forge-1.18.2-0.1.6.jar",
+          "url": "dragnsounds-forge-1.18.2-0.1.6.jar",
+          "size": 1620881,
+          "sha512": "f02d3690f9232c7ad40d0398e6fa7f9896c6f4a91685cd511adb4f4c6e23f2626cd48a29cc4b107160036d300f815d009dd60cb395a3790effe68aa34776e7cc",
+          "sha256": "22b1ab5497c33b306a4b23144e31490b76de9546b06ff9e94a57ae8239b94835",
+          "sha1": "22e2c4e8070951e87baf4129a2ac626b35ffefc9",
+          "md5": "099664651f8b4e6fd1bdb479d033ac8f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "de.mrjulsen.mcdragonlib",
+          "module": "dragonlib-forge",
+          "version": {
+            "requires": "1.18.2-2.1.11"
+          }
+        },
+        {
+          "group": "net.minecraftforge",
+          "module": "forgeconfigapiport-fabric",
+          "version": {
+            "requires": "3.2.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dragnsounds-forge-1.18.2-0.1.6.jar",
+          "url": "dragnsounds-forge-1.18.2-0.1.6.jar",
+          "size": 1620881,
+          "sha512": "f02d3690f9232c7ad40d0398e6fa7f9896c6f4a91685cd511adb4f4c6e23f2626cd48a29cc4b107160036d300f815d009dd60cb395a3790effe68aa34776e7cc",
+          "sha256": "22b1ab5497c33b306a4b23144e31490b76de9546b06ff9e94a57ae8239b94835",
+          "sha1": "22e2c4e8070951e87baf4129a2ac626b35ffefc9",
+          "md5": "099664651f8b4e6fd1bdb479d033ac8f"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-forge-1.18.2-0.1.6-sources.jar",
+          "url": "dragnsounds-forge-1.18.2-0.1.6-sources.jar",
+          "size": 330955,
+          "sha512": "809d4c8bcdf10d07669a5f5eacd0702faa5e66e3bb404b8892b15e979be4f9d2d8386cd0892d31fb0d01e433e40b041c4381ef0c1ba027b00bfd36406feda8ea",
+          "sha256": "4fd453ec862c6b6ce549823aeafa6a869a2cb98296f921269a356ca0487557d4",
+          "sha1": "1f313e7f4d27e5b3fecb5cd9d68bfb29c165b629",
+          "md5": "376d32061978b602a327e26917912a8b"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-forge-1.18.2-0.1.6-javadoc.jar",
+          "url": "dragnsounds-forge-1.18.2-0.1.6-javadoc.jar",
+          "size": 74693,
+          "sha512": "b5076746818d159d5404c6974dcb7a8a16c87d554d4072ace36452acb7992e75a41fe130bb3c2f0bcffabf1fda2bb4e0addbb06fbf9ef51651d399d8f2178edc",
+          "sha256": "18f12b2f9fb28a0e903b3d26b99dc52abf539a0af0f3d44cc698545b790fdd9a",
+          "sha1": "fbd1f7acb31478ad6f8b49c8adec68e78a4673ab",
+          "md5": "6fe18a65be7c4273edc06abba103e067"
+        }
+      ]
+    }
+  ]
+}
