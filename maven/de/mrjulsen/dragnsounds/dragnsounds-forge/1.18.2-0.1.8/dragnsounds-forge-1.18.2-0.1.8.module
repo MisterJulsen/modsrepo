@@ -27,11 +27,11 @@
         {
           "name": "dragnsounds-forge-1.18.2-0.1.8.jar",
           "url": "dragnsounds-forge-1.18.2-0.1.8.jar",
-          "size": 1621271,
-          "sha512": "b2b77fea55cdb25e05dbc4e93638c80fbd53d94fe74b5c5e9a2ee3c53a9ee2b3d14d956f57ba62cc1b858ecaa74a090e9c270e03422d54c3e8aa15e17283a4d0",
-          "sha256": "c061f27d01ae095aeae57dbe8d48575547e2c93addda3e4f9c81a8f1efffd0f9",
-          "sha1": "19f85a454817cb55fa5d98d8670a3fc73a1b0c34",
-          "md5": "97dcb567eb3e7ee4808e19151bc7348e"
+          "size": 1621648,
+          "sha512": "7acddeabf9eaae4f7b4854fc2c67bd5950d2696507d033f897c92ebd65e932844d272cc9d2f12b799ac7a669ef54b2098a3041a7d952248dc97a62efdf57cae5",
+          "sha256": "85a20e32e563d37273eb71553a827b3e631fcf2b87fd6c1872d792c2108a28fd",
+          "sha1": "5eaa94327e597427155580bf90a9413df696ce3b",
+          "md5": "a6496506fd761e6e0800a3bba3f7734d"
         }
       ]
     },
@@ -49,7 +49,7 @@
           "group": "de.mrjulsen.mcdragonlib",
           "module": "dragonlib-forge",
           "version": {
-            "requires": "1.18.2-2.1.11"
+            "requires": "1.18.2-2.1.12"
           }
         },
         {
@@ -64,11 +64,11 @@
         {
           "name": "dragnsounds-forge-1.18.2-0.1.8.jar",
           "url": "dragnsounds-forge-1.18.2-0.1.8.jar",
-          "size": 1621271,
-          "sha512": "b2b77fea55cdb25e05dbc4e93638c80fbd53d94fe74b5c5e9a2ee3c53a9ee2b3d14d956f57ba62cc1b858ecaa74a090e9c270e03422d54c3e8aa15e17283a4d0",
-          "sha256": "c061f27d01ae095aeae57dbe8d48575547e2c93addda3e4f9c81a8f1efffd0f9",
-          "sha1": "19f85a454817cb55fa5d98d8670a3fc73a1b0c34",
-          "md5": "97dcb567eb3e7ee4808e19151bc7348e"
+          "size": 1621648,
+          "sha512": "7acddeabf9eaae4f7b4854fc2c67bd5950d2696507d033f897c92ebd65e932844d272cc9d2f12b799ac7a669ef54b2098a3041a7d952248dc97a62efdf57cae5",
+          "sha256": "85a20e32e563d37273eb71553a827b3e631fcf2b87fd6c1872d792c2108a28fd",
+          "sha1": "5eaa94327e597427155580bf90a9413df696ce3b",
+          "md5": "a6496506fd761e6e0800a3bba3f7734d"
         }
       ]
     },
@@ -85,10 +85,10 @@
           "name": "dragnsounds-forge-1.18.2-0.1.8-sources.jar",
           "url": "dragnsounds-forge-1.18.2-0.1.8-sources.jar",
           "size": 331300,
-          "sha512": "37d0ee980e7b797155f0af623ed45c6fd84634ee7822b6f3a4eabbc477a2e198a2abf5b4e8ee31b6b6c3a0b9249d1f4604ad281ae20172b1710ca3b277c418f3",
-          "sha256": "ae9c8034eaf9b47a5867eb8bc89e4157ba5fc554209c5e548e685f07a1e9cc45",
-          "sha1": "0f851c92819d6ce22f6f1cc5b76acdfa5c91eafe",
-          "md5": "97fb9f66f1c37cab312d5b18f8219c51"
+          "sha512": "b418c9f7e3c889d9d9f49a8f959a4a8816bb23303f140794494577bdc2dc0437e3ba10b069d46c9f670c46f0419f1ef0cb9db5455b9e9753a13ef58a2786b030",
+          "sha256": "1f02fc3a8a1af257ffee160846c48d165dd82054200bab3eae5e6f640afad498",
+          "sha1": "3a97fea67113ac03441e547a90311efe6265dfa8",
+          "md5": "48db3d45c81d23ae0e555909985b17b2"
         }
       ]
     },
@@ -105,10 +105,10 @@
           "name": "dragnsounds-forge-1.18.2-0.1.8-javadoc.jar",
           "url": "dragnsounds-forge-1.18.2-0.1.8-javadoc.jar",
           "size": 74692,
-          "sha512": "9bbc5ebbb883596dcc213b9fa38b75675f07c8960ca7a49cb92f3f1e7a89d4dd1fdb47fb2f5e2187c818008914ed85804911a62990eaf9882e5742472e5a3a50",
-          "sha256": "949f0f23f90b3272a3206aceb1fbe87b4a5416d1b87fc82b8fb20b1477e5a11c",
-          "sha1": "15768cad71c33ca567b70697aa56be6d82c43854",
-          "md5": "2e9bc0ccb3a751bd33dd496fdacb1325"
+          "sha512": "1abb168967c161783ccdb864c6d560aef690866a15103cca7fecd6894da4e4ac16e45a0a4b65e94870fadeedda4aa45c2e7b091c94bb0e7a7f820ea2443314c3",
+          "sha256": "ff08d0f16049889184b764d48be8ae70c0a801de14c28ad540e9ecfb56be4170",
+          "sha1": "9399bcb419ff4255c4925640d41b6b15d2508bee",
+          "md5": "d2b112d50792cb53ebea8b5ecb1e226b"
         }
       ]
     }

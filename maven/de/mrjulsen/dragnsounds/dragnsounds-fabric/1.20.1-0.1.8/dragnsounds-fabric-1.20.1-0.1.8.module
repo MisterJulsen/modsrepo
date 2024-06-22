@@ -27,11 +27,11 @@
         {
           "name": "dragnsounds-fabric-1.20.1-0.1.8.jar",
           "url": "dragnsounds-fabric-1.20.1-0.1.8.jar",
-          "size": 1650128,
-          "sha512": "5f97e8daa3414347dfb63b0b5b0d42e01a40e0fd3bf9fbd752344564736bae0595c24cc69d00944aada9150244360d2523591fdfe6355dd0e3eecaa7e26b6259",
-          "sha256": "d2c0980b764093fc5708e8e129fd9437f05af296129394bab662a68f2dcaadd6",
-          "sha1": "5e6fae10937e885bce8e82050429419961706b85",
-          "md5": "f292a7ecb7d44a6a12a0dbc3d1da9937"
+          "size": 1650937,
+          "sha512": "c96514db43b42ccce3b6e02291185cf0c8723a3b36725eae23c5be64fffb5ee0fdfb4182da3bc28d7a045d5762e1b65837b09d0850f93dd5effa119f8af5883c",
+          "sha256": "baadba66cdf2e3c1cb6726d59ffe5b21a8a73a1ff5e1ce79596bc86d454a3197",
+          "sha1": "89a2851cb1b1929239c24e260fc104311cc4b402",
+          "md5": "1217163f773628f8ff398f5a9c1fc666"
         }
       ]
     },
@@ -70,7 +70,7 @@
           "group": "de.mrjulsen.mcdragonlib",
           "module": "dragonlib-fabric",
           "version": {
-            "requires": "1.20.1-2.1.11"
+            "requires": "1.20.1-2.1.12"
           }
         },
         {
@@ -85,11 +85,11 @@
         {
           "name": "dragnsounds-fabric-1.20.1-0.1.8.jar",
           "url": "dragnsounds-fabric-1.20.1-0.1.8.jar",
-          "size": 1650128,
-          "sha512": "5f97e8daa3414347dfb63b0b5b0d42e01a40e0fd3bf9fbd752344564736bae0595c24cc69d00944aada9150244360d2523591fdfe6355dd0e3eecaa7e26b6259",
-          "sha256": "d2c0980b764093fc5708e8e129fd9437f05af296129394bab662a68f2dcaadd6",
-          "sha1": "5e6fae10937e885bce8e82050429419961706b85",
-          "md5": "f292a7ecb7d44a6a12a0dbc3d1da9937"
+          "size": 1650937,
+          "sha512": "c96514db43b42ccce3b6e02291185cf0c8723a3b36725eae23c5be64fffb5ee0fdfb4182da3bc28d7a045d5762e1b65837b09d0850f93dd5effa119f8af5883c",
+          "sha256": "baadba66cdf2e3c1cb6726d59ffe5b21a8a73a1ff5e1ce79596bc86d454a3197",
+          "sha1": "89a2851cb1b1929239c24e260fc104311cc4b402",
+          "md5": "1217163f773628f8ff398f5a9c1fc666"
         }
       ]
     },
@@ -106,10 +106,10 @@
           "name": "dragnsounds-fabric-1.20.1-0.1.8-sources.jar",
           "url": "dragnsounds-fabric-1.20.1-0.1.8-sources.jar",
           "size": 75400,
-          "sha512": "7d8aba33e800f2e9585496b943a6549a85640c7ee8d7450455b146a485c80ced742f46446ff0bafebf250c69cb1af2f2f7f7cc5f89779fbe16b8fc8576291618",
-          "sha256": "4895fef6dd3d7534cbff1b2a620b5a3083f66cb8895f0222aa094412082f7406",
-          "sha1": "d3804c6847a71478bb84f1b50e7f062c7bd154ab",
-          "md5": "88f8e96f65cb0435564e5e733c9c1e3a"
+          "sha512": "6b3e570711250d6e58960fd4e46b992f5408dd636872bcdee5ef79155a5fd75b44273b09f6d56348b4d97934ffcac01d4da6011fb3aeffc6be9bed6ae5de4fa2",
+          "sha256": "bcd3f356b2f1b88ec80fab10e97f31cd7d852628bd198e407bc3d77a4312cc8d",
+          "sha1": "1e2453607c1f47e3b8148b00856e7c0781fd411b",
+          "md5": "87aa6c2609e8d568c924113376383514"
         }
       ]
     },
@@ -126,10 +126,10 @@
           "name": "dragnsounds-fabric-1.20.1-0.1.8-javadoc.jar",
           "url": "dragnsounds-fabric-1.20.1-0.1.8-javadoc.jar",
           "size": 75314,
-          "sha512": "56e579093326b8d0b450207198b2aa5a9f624b701dd8aba8a148f8552a75f23abd293207309b30a779c60116abd86174277a710de1a3019cbae5e632d7e1256c",
-          "sha256": "37d2f8e9d8b9ab14908af64e571362ddfec8fb5a71080b2409d930f4c71d7aad",
-          "sha1": "739ea73f71e4fc749cfdcff16b1ed5c9c5414b91",
-          "md5": "e63c650a3d5885bca7927dff16b80d22"
+          "sha512": "b27b94f18578ef66d411fa8aaa563105969657232502a54ca8ce258f9641d2040a53c56551619b95e895a6b40d6e18622f14a78a3ad9c4761a3789ed821912e6",
+          "sha256": "80833ec9e6dfcdb9d96675fefa4b1e97100508c7342aa247970b52acbd992b6e",
+          "sha1": "0ca88cc6380a49fa4b563c494078443bcf3520de",
+          "md5": "7511de99fa4546e3890153de25975bac"
         }
       ]
     },
@@ -145,11 +145,11 @@
         {
           "name": "dragnsounds-fabric-1.20.1-0.1.8-dev-shadow.jar",
           "url": "dragnsounds-fabric-1.20.1-0.1.8-dev-shadow.jar",
-          "size": 334571,
-          "sha512": "5b3ffd6f88dae5a82ea01df814f2147aea52a5ca60b68da505ca90ceab6984911c24286b47beb900ab72b1362925375dee2a18bd1ddd5de30f4ab858593a7760",
-          "sha256": "a47f472a85bb2cb96084532c4868f89011a074b5a63f3df981ec0bd98f8c0187",
-          "sha1": "f773df0286304200e95ddd852dd7174ff4de1fc7",
-          "md5": "d0f3a977d92054636ac9f34269c04c79"
+          "size": 334569,
+          "sha512": "9e6ce5105aab348fb68b8a589e92b2ee3e62ca9a39acdf5e6f278f9f1852da1fd08bb0452156c2026e1dfe570837b7d28a89a02ea9f36f3a46aa57bb82e37adc",
+          "sha256": "80360e84afbe1c73d2fc3d74a409baa135d353a728ac0d0c0ae4084730176315",
+          "sha1": "4ff65651ae1f387ce6e0219b99584db6c4dcc35f",
+          "md5": "933486f19504c98017e9b126d99af60c"
         }
       ]
     }

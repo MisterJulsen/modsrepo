@@ -14,7 +14,7 @@
     <dependency>
       <groupId>de.mrjulsen.mcdragonlib</groupId>
       <artifactId>dragonlib-forge</artifactId>
-      <version>1.19.2-2.1.11</version>
+      <version>1.19.2-2.1.12</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
