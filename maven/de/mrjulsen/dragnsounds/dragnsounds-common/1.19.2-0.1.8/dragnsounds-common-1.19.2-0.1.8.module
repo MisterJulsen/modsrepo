@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.mrjulsen.dragnsounds",
+    "module": "dragnsounds-common",
+    "version": "1.19.2-0.1.8",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-common-1.19.2-0.1.8.jar",
+          "url": "dragnsounds-common-1.19.2-0.1.8.jar",
+          "size": 270870,
+          "sha512": "69c9c3fec55c4c49b199329c0d228dae0117e8ce019a129592c04c0b8b898b9102dcc41688a2721dcf037aae669b02c07dc1d0eb39cb165cbfa575ed8db3c52b",
+          "sha256": "6c321761722e6c63e74764e8f06daa6f77aa245c8a721ac56d579fcd3abe811b",
+          "sha1": "e0bbcd1de64312eb7a755ecbe80c27e6acaad325",
+          "md5": "61416527da48a8e043eaa0c15d83c04b"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "ws.schild",
+          "module": "jave-all-deps",
+          "version": {
+            "requires": "3.5.0"
+          }
+        },
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.15.11"
+          }
+        },
+        {
+          "group": "de.mrjulsen.mcdragonlib",
+          "module": "dragonlib-fabric",
+          "version": {
+            "requires": "1.19.2-2.1.11"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dragnsounds-common-1.19.2-0.1.8.jar",
+          "url": "dragnsounds-common-1.19.2-0.1.8.jar",
+          "size": 270870,
+          "sha512": "69c9c3fec55c4c49b199329c0d228dae0117e8ce019a129592c04c0b8b898b9102dcc41688a2721dcf037aae669b02c07dc1d0eb39cb165cbfa575ed8db3c52b",
+          "sha256": "6c321761722e6c63e74764e8f06daa6f77aa245c8a721ac56d579fcd3abe811b",
+          "sha1": "e0bbcd1de64312eb7a755ecbe80c27e6acaad325",
+          "md5": "61416527da48a8e043eaa0c15d83c04b"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-common-1.19.2-0.1.8-sources.jar",
+          "url": "dragnsounds-common-1.19.2-0.1.8-sources.jar",
+          "size": 131701,
+          "sha512": "13af55d5d96af947fad5a906d01543edc8130e523d8a57c0b72520e05b21d792ce58b1b91b0866575a9174b326597c9dc81ee4589d480460b2fd93797649aee2",
+          "sha256": "e8a520bcf5ca4c91fcd206fad4d1bd05cbdde7e172ab1b4533b1cda4bdbfff16",
+          "sha1": "0e565529453b04b68bab2f6c7bcffeece376aa59",
+          "md5": "c1efe6151f28ee15bc7b1883102282bb"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-common-1.19.2-0.1.8-javadoc.jar",
+          "url": "dragnsounds-common-1.19.2-0.1.8-javadoc.jar",
+          "size": 555039,
+          "sha512": "f23f74d84d9d5433b37bb22a8241c176fb02b9d186f0f8669c96af542c669db5dffb5b98704c186fd1018cc746df4d82c898f3b4a7db53869daa00c212ecdb09",
+          "sha256": "db9c51d514be42aafa07b7e5b9fe4fe6aef5ac24d68e00faccf6d1703e2d644a",
+          "sha1": "21e9987c992635b079f7c077741c8ac7510068c3",
+          "md5": "04f0fba754aac6598781777f652510aa"
+        }
+      ]
+    }
+  ]
+}
