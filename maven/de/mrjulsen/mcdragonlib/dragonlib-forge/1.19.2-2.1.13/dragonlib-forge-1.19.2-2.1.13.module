@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.mrjulsen.mcdragonlib",
+    "module": "dragonlib-forge",
+    "version": "1.19.2-2.1.13",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dragonlib-forge-1.19.2-2.1.13.jar",
+          "url": "dragonlib-forge-1.19.2-2.1.13.jar",
+          "size": 1178661,
+          "sha512": "2e5633611412e0fa47ed1e9916f7c51096351db3eb4bf54ea18631b142de6b8a1693dc11572655e184f27f2e3a7fee2aec8642382cd70f381e8cc881e63c3632",
+          "sha256": "6412d381b7de796712a9daeb45acb5cdc2d66606f5540645c15c77bef3cd4ca3",
+          "sha1": "f4703d6ecd3991012916ec6870b4d6214aa49c74",
+          "md5": "4802f0a8fd71c744fc89cac964a4191a"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "dev.architectury",
+          "module": "architectury-forge",
+          "version": {
+            "requires": "6.5.85"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dragonlib-forge-1.19.2-2.1.13.jar",
+          "url": "dragonlib-forge-1.19.2-2.1.13.jar",
+          "size": 1178661,
+          "sha512": "2e5633611412e0fa47ed1e9916f7c51096351db3eb4bf54ea18631b142de6b8a1693dc11572655e184f27f2e3a7fee2aec8642382cd70f381e8cc881e63c3632",
+          "sha256": "6412d381b7de796712a9daeb45acb5cdc2d66606f5540645c15c77bef3cd4ca3",
+          "sha1": "f4703d6ecd3991012916ec6870b4d6214aa49c74",
+          "md5": "4802f0a8fd71c744fc89cac964a4191a"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragonlib-forge-1.19.2-2.1.13-sources.jar",
+          "url": "dragonlib-forge-1.19.2-2.1.13-sources.jar",
+          "size": 536571,
+          "sha512": "d0f2a2f15410bf37717643a219952ee765399bd788e11b97f7cac252fafabdc9b3289e38cff2095e8146680de209f5fae5854d92e637195fb5f16d24302909dd",
+          "sha256": "8bed50523e495ac5f56263e035411abf2ba0aebcd7c587ded0490cba4f0ee7dd",
+          "sha1": "54e2041d07230ce2d0f026284f060c9191b92e44",
+          "md5": "3bc415263f05c8219c11a2a6893f12f1"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragonlib-forge-1.19.2-2.1.13-javadoc.jar",
+          "url": "dragonlib-forge-1.19.2-2.1.13-javadoc.jar",
+          "size": 74836,
+          "sha512": "9b0ff37ca44120b91e32c8b90b26b95c37e3cf0da50a3d0a1a014fcb61255441d68eb590c0881e397e2577c731336174b8eee177d851b4c8dc91a4c661edaf62",
+          "sha256": "d778fd261df83c2160bcc8dc9895ecdc00021b83139151e61a9569b9737e0e7e",
+          "sha1": "6f40a0835d4854a1bdad692e3c7a5fae2618d594",
+          "md5": "2ac111f9549220ef0fa5bc3443659f4c"
+        }
+      ]
+    }
+  ]
+}
