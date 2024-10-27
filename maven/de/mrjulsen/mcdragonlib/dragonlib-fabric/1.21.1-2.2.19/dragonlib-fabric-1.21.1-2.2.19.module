@@ -27,11 +27,11 @@
         {
           "name": "dragonlib-fabric-1.21.1-2.2.19.jar",
           "url": "dragonlib-fabric-1.21.1-2.2.19.jar",
-          "size": 1657136,
-          "sha512": "cb7848cefea7c64b21e57bf1b120bf572ba47d743c73ab999abc78c39a2081c317081ea72da67a4b7a32a57be5835b25d751660456b76bc8712218c17377da75",
-          "sha256": "3b688ed300ab9ecef8b4b6f5e24b8062f7ebbabcb04048edf1e0310242ab3bbd",
-          "sha1": "aa4e5d499e1dcd60da028b0793329f327c8e98aa",
-          "md5": "977b5f1a10129ed325897b9f23555b65"
+          "size": 1668285,
+          "sha512": "95348314c59f7e0d57daf0d9b57cf0a75e35202a1eed59f3df6f57f113784bbba0a85b2c24436ae65010f1918d0874a8ac61ac0a10f920b5bc82ae14a447733f",
+          "sha256": "452c99e47c9400b0bff411e9c8f994ff264ccfc640b97a49dc51ba5937ca8a67",
+          "sha1": "4b1e31067f07f58c56802cbd36a7cfa0090c5e61",
+          "md5": "e0bd34d0a27e7583a0be2ac771eaaa8a"
         }
       ]
     },
@@ -60,6 +60,13 @@
           }
         },
         {
+          "group": "com.electronwill.night-config",
+          "module": "toml",
+          "version": {
+            "requires": "3.6.0"
+          }
+        },
+        {
           "group": "dev.architectury",
           "module": "architectury-fabric",
           "version": {
@@ -78,11 +85,11 @@
         {
           "name": "dragonlib-fabric-1.21.1-2.2.19.jar",
           "url": "dragonlib-fabric-1.21.1-2.2.19.jar",
-          "size": 1657136,
-          "sha512": "cb7848cefea7c64b21e57bf1b120bf572ba47d743c73ab999abc78c39a2081c317081ea72da67a4b7a32a57be5835b25d751660456b76bc8712218c17377da75",
-          "sha256": "3b688ed300ab9ecef8b4b6f5e24b8062f7ebbabcb04048edf1e0310242ab3bbd",
-          "sha1": "aa4e5d499e1dcd60da028b0793329f327c8e98aa",
-          "md5": "977b5f1a10129ed325897b9f23555b65"
+          "size": 1668285,
+          "sha512": "95348314c59f7e0d57daf0d9b57cf0a75e35202a1eed59f3df6f57f113784bbba0a85b2c24436ae65010f1918d0874a8ac61ac0a10f920b5bc82ae14a447733f",
+          "sha256": "452c99e47c9400b0bff411e9c8f994ff264ccfc640b97a49dc51ba5937ca8a67",
+          "sha1": "4b1e31067f07f58c56802cbd36a7cfa0090c5e61",
+          "md5": "e0bd34d0a27e7583a0be2ac771eaaa8a"
         }
       ]
     },
@@ -99,10 +106,10 @@
           "name": "dragonlib-fabric-1.21.1-2.2.19-sources.jar",
           "url": "dragonlib-fabric-1.21.1-2.2.19-sources.jar",
           "size": 80461,
-          "sha512": "955a6054b569aba523267d665ebf0af83a83f5c372c11a802f251f28ebd5f54a74905ca236a95ff9d46a08a3c4f5a449c9b754a2f500a78941dfb30336b8278a",
-          "sha256": "5a6f96d77b63cf741b5039272317b062f142e315daacebca06e8d408c9c4e134",
-          "sha1": "7e05a212436295a3cef791d43df6c26aa846e7c9",
-          "md5": "7ef12d88f9466dba3cfb7d7ab246faca"
+          "sha512": "a5003a0df0e3933c86300467b5f7efb39f7c81931aa1c36d610aedc13b01be031751636778aaa8302bc9556c574cbba67575b5225219add8e781edb96ec3df0e",
+          "sha256": "ee2814bfc4507923dde3d4b8376df9edb717b4df9a41a62b56de3687513dab41",
+          "sha1": "346b0d7405201ff9452c2c54763178e0e3b2591d",
+          "md5": "765a8a522b36afbf4e216546fff3ff14"
         }
       ]
     },
@@ -138,11 +145,11 @@
         {
           "name": "dragonlib-fabric-1.21.1-2.2.19-dev-shadow.jar",
           "url": "dragonlib-fabric-1.21.1-2.2.19-dev-shadow.jar",
-          "size": 521531,
-          "sha512": "cd80e15a78c668b05e0b3903cab900e63e7e68353824a89e9ed1ea12f6bd175d772422ecbe11ee372bb990866abe584ff91bdcfe5fb41197c339b098b0e8fc91",
-          "sha256": "5c1cfb484d91c3a03c4779e199af21b95f9f34f32d4febdbb81878f728a21034",
-          "sha1": "ea0551d5bec5e65ca7b5a644272539aeca4883e2",
-          "md5": "4f8de429335e3fea0308aeb9c982b2d0"
+          "size": 532392,
+          "sha512": "eda21b54f1335162b2fe08d030ca047642d7afdbd7d034e7c5f87e83899fef2a7643f960324be712120d300ba688b228057188a11f771823da489e898ec8d1f7",
+          "sha256": "3544445627d4e4b3da1943394914d4e4870792ce3f9b610d4b6600b23090c8b9",
+          "sha1": "a1ff5e822586bc1445b71481bdcbb930f9042259",
+          "md5": "4f076336f9d0f20c9dd0593553b7fa88"
         }
       ]
     }

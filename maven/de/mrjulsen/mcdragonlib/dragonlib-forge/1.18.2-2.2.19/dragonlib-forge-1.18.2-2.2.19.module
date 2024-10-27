@@ -27,11 +27,11 @@
         {
           "name": "dragonlib-forge-1.18.2-2.2.19.jar",
           "url": "dragonlib-forge-1.18.2-2.2.19.jar",
-          "size": 1239876,
-          "sha512": "61ff0cd21b5dd272740d8641dae54854dee5a9daf4c76e98a1980a984399020bba3aa6bb17a5e4077fe1567482dbdc972276b03ff1bddecc61c85f57e2aeb8de",
-          "sha256": "471f1205927f709fcdab1698bbcdb1a72fe71aa59e7448fdf90ae683d373cfe7",
-          "sha1": "77072df4c2a13f5c721d8e7718471b65b128c523",
-          "md5": "5815c489f99872fec5dc270797272b1b"
+          "size": 1250900,
+          "sha512": "a616b6ad5759874c5c29f35a6ed4bd57968a1609403becaedd7af49fbf526fa2ae511ad51d44b7debeb9816f37cdf5b4a6d231e9d953badd6c911d0d20f6f00b",
+          "sha256": "03df4fe6469dbe53a11f9dfdc9053c5aed0135eb216956a27fdaef900b6421ff",
+          "sha1": "208faaf7dd7f89bb0031ae8391760fd490129eaa",
+          "md5": "08ecdc2b5128e94977bb223ab9be810b"
         }
       ]
     },
@@ -57,11 +57,11 @@
         {
           "name": "dragonlib-forge-1.18.2-2.2.19.jar",
           "url": "dragonlib-forge-1.18.2-2.2.19.jar",
-          "size": 1239876,
-          "sha512": "61ff0cd21b5dd272740d8641dae54854dee5a9daf4c76e98a1980a984399020bba3aa6bb17a5e4077fe1567482dbdc972276b03ff1bddecc61c85f57e2aeb8de",
-          "sha256": "471f1205927f709fcdab1698bbcdb1a72fe71aa59e7448fdf90ae683d373cfe7",
-          "sha1": "77072df4c2a13f5c721d8e7718471b65b128c523",
-          "md5": "5815c489f99872fec5dc270797272b1b"
+          "size": 1250900,
+          "sha512": "a616b6ad5759874c5c29f35a6ed4bd57968a1609403becaedd7af49fbf526fa2ae511ad51d44b7debeb9816f37cdf5b4a6d231e9d953badd6c911d0d20f6f00b",
+          "sha256": "03df4fe6469dbe53a11f9dfdc9053c5aed0135eb216956a27fdaef900b6421ff",
+          "sha1": "208faaf7dd7f89bb0031ae8391760fd490129eaa",
+          "md5": "08ecdc2b5128e94977bb223ab9be810b"
         }
       ]
     },
@@ -77,11 +77,11 @@
         {
           "name": "dragonlib-forge-1.18.2-2.2.19-sources.jar",
           "url": "dragonlib-forge-1.18.2-2.2.19-sources.jar",
-          "size": 561397,
-          "sha512": "f41a7a54e1165c8b7f5ad8481e4f4ae693b493abd50c4af7988e5f4bc2ce55bc262d34a781c57ddf7c62742e71de47cee660f94ac7bb9887a688f0fd550531d7",
-          "sha256": "b1737ced569c3fd9b78582c44d4637910353ff98218a6675a1078d8033634ea5",
-          "sha1": "0d2106554157094199290dab37065348adbed4db",
-          "md5": "a48a62c4ba95e439c9e509e93abd8a7f"
+          "size": 566829,
+          "sha512": "a0af79be9d17ae66e5ccfc6d6c802fcfe4c33caef01f9473036af0985cf9c831c6b5a71e75e402526cfc1d3f9de4b6e3f84c4106bf0a8ccc182b40deead76ffe",
+          "sha256": "6e160687f4d70083d2aa1351e7e22084f310b62cfebc89c000105163b37b5de3",
+          "sha1": "49fc4c3ab3efa317f5ea214a5a4e028f3c1ba1f5",
+          "md5": "90272a143ebeee790ee41c6bd1380ffc"
         }
       ]
     },

@@ -27,11 +27,11 @@
         {
           "name": "dragonlib-neoforge-1.20.4-2.2.19.jar",
           "url": "dragonlib-neoforge-1.20.4-2.2.19.jar",
-          "size": 1354311,
-          "sha512": "b2761c2dcb685362ba731e03d18512d9168e71abb3bae0d484b5e8f2bc2253fc3ab1f5d742d66c16fd92c6cdb5491cbb1ee163953e19a5cf301ee37bd320c3d5",
-          "sha256": "73dcb449692a8e6a676d6016618107b09b72977b1a4ac953762f5c0cb528614e",
-          "sha1": "c1aa6256e15a92817d3c29a0c12a3def474ef0fd",
-          "md5": "156ba0415d7b119b8e720d917371083b"
+          "size": 1365497,
+          "sha512": "81e5eb8a0ecec2e9991f44dfd4d19974416d40e983b1aee2aa8669f8c3fe67b5483cff30fffede5591b36695a2b4aef1706683d81b7144245972ce0e81aca0f5",
+          "sha256": "09b1ccd4161ddbc0dbf9b51294b725e2b7173cac14f9afce095ea27453d7a4a3",
+          "sha1": "7d9d46ef4edbb43eaf566278506644cb06120d1e",
+          "md5": "7fbe467aa877a40ec5d5ff58814f024a"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "dragonlib-neoforge-1.20.4-2.2.19.jar",
           "url": "dragonlib-neoforge-1.20.4-2.2.19.jar",
-          "size": 1354311,
-          "sha512": "b2761c2dcb685362ba731e03d18512d9168e71abb3bae0d484b5e8f2bc2253fc3ab1f5d742d66c16fd92c6cdb5491cbb1ee163953e19a5cf301ee37bd320c3d5",
-          "sha256": "73dcb449692a8e6a676d6016618107b09b72977b1a4ac953762f5c0cb528614e",
-          "sha1": "c1aa6256e15a92817d3c29a0c12a3def474ef0fd",
-          "md5": "156ba0415d7b119b8e720d917371083b"
+          "size": 1365497,
+          "sha512": "81e5eb8a0ecec2e9991f44dfd4d19974416d40e983b1aee2aa8669f8c3fe67b5483cff30fffede5591b36695a2b4aef1706683d81b7144245972ce0e81aca0f5",
+          "sha256": "09b1ccd4161ddbc0dbf9b51294b725e2b7173cac14f9afce095ea27453d7a4a3",
+          "sha1": "7d9d46ef4edbb43eaf566278506644cb06120d1e",
+          "md5": "7fbe467aa877a40ec5d5ff58814f024a"
         }
       ]
     },
@@ -85,10 +85,10 @@
           "name": "dragonlib-neoforge-1.20.4-2.2.19-sources.jar",
           "url": "dragonlib-neoforge-1.20.4-2.2.19-sources.jar",
           "size": 297721,
-          "sha512": "c4b32d9b1591fd4237de521d28a2d050d72226ff99b0c9bcd66a834832974895702b046d3abbe385438e6dbf0358eb295e82184a35f1c03d160fb8894c8fee57",
-          "sha256": "bd24fb12ef09c5fd2b9d62d6e17537e97fde07d655e84c00b2f6b3a5ce3d31c3",
-          "sha1": "bb20273c52778026a838f60431a9207a1d90720f",
-          "md5": "31171f6de3c88c515fb5b57c45bd9269"
+          "sha512": "1f743c16581adb7dc0dc3fd5960243ec60d943076bed8c9215a5d234ea613e98f2b383e44c90dfee4121a5411aec8dc7f41dd6222a691013f26aa66a067d4aad",
+          "sha256": "c9480c81a138686e563411a5f11da39546de8d7023146765b63e28513811d3f7",
+          "sha1": "d0fb6569d11d0fff1ce4b91d5715d341e801f30d",
+          "md5": "679ddf7432ddbdaf3aa6413ddf539016"
         }
       ]
     },
@@ -124,11 +124,11 @@
         {
           "name": "dragonlib-neoforge-1.20.4-2.2.19-dev-shadow.jar",
           "url": "dragonlib-neoforge-1.20.4-2.2.19-dev-shadow.jar",
-          "size": 743564,
-          "sha512": "56fbd2a47509a249d97cf33aecf866cd5c770c76a03642a73c29fb305c5633803e38b4eba7b4a6f6dca4f31bc06499ea02d48cdabef1dff017a2b2162dc5944b",
-          "sha256": "3f398e52195ca25faa8261ee1d919bc15f15f6e467a73dfe1ee7fec806f0147b",
-          "sha1": "74053e10f570bd6833fd40bc8478a82385342145",
-          "md5": "31b54173a884acac61699264defd569f"
+          "size": 754411,
+          "sha512": "a84f53b92d72f4018de37ca826b42cf4de4661ae26ecaff308f56538a4b97a8fa35f4951f53d3eefe238e5ef52aba43216170520a46590ada01bfd03f50206b2",
+          "sha256": "f56581525d64bd4ec8da1efc0e67f4bbff3460594b49cb4d64d390bdca3ca7de",
+          "sha1": "d0068ef1ee809f4a3f3cea62a08b69c031be8bc0",
+          "md5": "3cde51c17c596d4b31f3ba7c4ffed922"
         }
       ]
     }
