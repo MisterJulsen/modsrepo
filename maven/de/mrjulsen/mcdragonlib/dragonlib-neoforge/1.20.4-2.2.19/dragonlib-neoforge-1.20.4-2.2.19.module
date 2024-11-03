@@ -27,11 +27,11 @@
         {
           "name": "dragonlib-neoforge-1.20.4-2.2.19.jar",
           "url": "dragonlib-neoforge-1.20.4-2.2.19.jar",
-          "size": 1365497,
-          "sha512": "81e5eb8a0ecec2e9991f44dfd4d19974416d40e983b1aee2aa8669f8c3fe67b5483cff30fffede5591b36695a2b4aef1706683d81b7144245972ce0e81aca0f5",
-          "sha256": "09b1ccd4161ddbc0dbf9b51294b725e2b7173cac14f9afce095ea27453d7a4a3",
-          "sha1": "7d9d46ef4edbb43eaf566278506644cb06120d1e",
-          "md5": "7fbe467aa877a40ec5d5ff58814f024a"
+          "size": 1367112,
+          "sha512": "b18bac15487d9c11dfca5190f9418ef48edbb38fae627cf227e709092a6ca395e7c8c7409eae50be7b8253be6038a595aabc68e8f19b54a550baf52ab07b9ce4",
+          "sha256": "80a62cbb0554aab5747a1fd9a5eb5bbc321b5cddc18b83855c0d446cf4837428",
+          "sha1": "345d0f618a2641f8b3ef4a50476b1623c17f7da9",
+          "md5": "67752e0c36d410df3d63fe7a57a13d01"
         }
       ]
     },
@@ -64,11 +64,11 @@
         {
           "name": "dragonlib-neoforge-1.20.4-2.2.19.jar",
           "url": "dragonlib-neoforge-1.20.4-2.2.19.jar",
-          "size": 1365497,
-          "sha512": "81e5eb8a0ecec2e9991f44dfd4d19974416d40e983b1aee2aa8669f8c3fe67b5483cff30fffede5591b36695a2b4aef1706683d81b7144245972ce0e81aca0f5",
-          "sha256": "09b1ccd4161ddbc0dbf9b51294b725e2b7173cac14f9afce095ea27453d7a4a3",
-          "sha1": "7d9d46ef4edbb43eaf566278506644cb06120d1e",
-          "md5": "7fbe467aa877a40ec5d5ff58814f024a"
+          "size": 1367112,
+          "sha512": "b18bac15487d9c11dfca5190f9418ef48edbb38fae627cf227e709092a6ca395e7c8c7409eae50be7b8253be6038a595aabc68e8f19b54a550baf52ab07b9ce4",
+          "sha256": "80a62cbb0554aab5747a1fd9a5eb5bbc321b5cddc18b83855c0d446cf4837428",
+          "sha1": "345d0f618a2641f8b3ef4a50476b1623c17f7da9",
+          "md5": "67752e0c36d410df3d63fe7a57a13d01"
         }
       ]
     },
@@ -85,10 +85,10 @@
           "name": "dragonlib-neoforge-1.20.4-2.2.19-sources.jar",
           "url": "dragonlib-neoforge-1.20.4-2.2.19-sources.jar",
           "size": 297721,
-          "sha512": "1f743c16581adb7dc0dc3fd5960243ec60d943076bed8c9215a5d234ea613e98f2b383e44c90dfee4121a5411aec8dc7f41dd6222a691013f26aa66a067d4aad",
-          "sha256": "c9480c81a138686e563411a5f11da39546de8d7023146765b63e28513811d3f7",
-          "sha1": "d0fb6569d11d0fff1ce4b91d5715d341e801f30d",
-          "md5": "679ddf7432ddbdaf3aa6413ddf539016"
+          "sha512": "b3b49a03f035683d08fefe6be563990d09c7dbe56315993529002d96d70c21a35fc1c3c6d327eae5538e1f9d3c6199505999ccf9453f1a2e6dbad7abecdfe3fc",
+          "sha256": "74e03e4c71a95dad2a07569149f1f0c0cd8219cbb693888a8b8b8f397a7939f9",
+          "sha1": "6a800c1282578f77e4317ac8ef5e06bf478efae9",
+          "md5": "a742fb446f19131b4b482ed30d63e60b"
         }
       ]
     },
@@ -104,11 +104,11 @@
         {
           "name": "dragonlib-neoforge-1.20.4-2.2.19-javadoc.jar",
           "url": "dragonlib-neoforge-1.20.4-2.2.19-javadoc.jar",
-          "size": 86186,
-          "sha512": "d81287cdf070a2cc2ad323854d1c9a35b9a01b3ba57305b24af2930ec17f7a02231c155ca62355087d5a027937a0cb47bdb1f7646fc80426e091e12e5ca077de",
-          "sha256": "a4cdd939e9040fe4178d7cad948fdb5c80a126b6e1755bb3cfb8245302efb333",
-          "sha1": "72930de64dd7eba81a5c5274255d3ba407db5d22",
-          "md5": "673f685de5d6262d8d9f04c232ecb546"
+          "size": 74871,
+          "sha512": "ef239280bca21a22154b4c0adb2d5f50f7ef8d08276a884464ad86bdef15f9a4ab0ff1fc4265cc6a3d03fee58e4af49efe7869d4c993af57cf7e421dc46f257c",
+          "sha256": "ac9b377aafc3e59c59332d5adb9f6d4981c25359bbe709a1dbf605b9b454c46c",
+          "sha1": "65078a123195b71ccba1cd4ffbb78fec369b9358",
+          "md5": "c9669fef43815d85788466e03b660a48"
         }
       ]
     },
@@ -124,11 +124,11 @@
         {
           "name": "dragonlib-neoforge-1.20.4-2.2.19-dev-shadow.jar",
           "url": "dragonlib-neoforge-1.20.4-2.2.19-dev-shadow.jar",
-          "size": 754411,
-          "sha512": "a84f53b92d72f4018de37ca826b42cf4de4661ae26ecaff308f56538a4b97a8fa35f4951f53d3eefe238e5ef52aba43216170520a46590ada01bfd03f50206b2",
-          "sha256": "f56581525d64bd4ec8da1efc0e67f4bbff3460594b49cb4d64d390bdca3ca7de",
-          "sha1": "d0068ef1ee809f4a3f3cea62a08b69c031be8bc0",
-          "md5": "3cde51c17c596d4b31f3ba7c4ffed922"
+          "size": 755457,
+          "sha512": "8c639fb576f60d47cb9cdeab70cb57584eac9cb05f998ceda4f437aa04e372a0de82f06d6be66741a99a243029f4a71fcd0173ab19c0c84545715dbbaa402ff5",
+          "sha256": "faab5c58e98c60672865a1688622587ae10ac353714a9dfb402d8bb20864b7ac",
+          "sha1": "03d9f9f211d81069ef5b511a8370d716715060dd",
+          "md5": "ad1fea52a9377bec2154880f46aeedbd"
         }
       ]
     }

@@ -27,11 +27,11 @@
         {
           "name": "dragonlib-fabric-1.21.1-2.2.19.jar",
           "url": "dragonlib-fabric-1.21.1-2.2.19.jar",
-          "size": 1668285,
-          "sha512": "95348314c59f7e0d57daf0d9b57cf0a75e35202a1eed59f3df6f57f113784bbba0a85b2c24436ae65010f1918d0874a8ac61ac0a10f920b5bc82ae14a447733f",
-          "sha256": "452c99e47c9400b0bff411e9c8f994ff264ccfc640b97a49dc51ba5937ca8a67",
-          "sha1": "4b1e31067f07f58c56802cbd36a7cfa0090c5e61",
-          "md5": "e0bd34d0a27e7583a0be2ac771eaaa8a"
+          "size": 1670591,
+          "sha512": "d3261c51cdd4e8d129c9272ecc6a413461e278aa13c9033fa98e1e85652a59e7de374b6ebdc6c3a4224b03b122daa817fe68c0037bfc8105d18a858f56c839d9",
+          "sha256": "d09c01112bdc05b0c0c35cab56868a621264b1099c0b019f68a4b4b949414c78",
+          "sha1": "2da5a3be8e87ffeb4673e8266e53b5a9d5ed1e84",
+          "md5": "fb3b8e09698acbd6a7b5dd5caa66344c"
         }
       ]
     },
@@ -85,11 +85,11 @@
         {
           "name": "dragonlib-fabric-1.21.1-2.2.19.jar",
           "url": "dragonlib-fabric-1.21.1-2.2.19.jar",
-          "size": 1668285,
-          "sha512": "95348314c59f7e0d57daf0d9b57cf0a75e35202a1eed59f3df6f57f113784bbba0a85b2c24436ae65010f1918d0874a8ac61ac0a10f920b5bc82ae14a447733f",
-          "sha256": "452c99e47c9400b0bff411e9c8f994ff264ccfc640b97a49dc51ba5937ca8a67",
-          "sha1": "4b1e31067f07f58c56802cbd36a7cfa0090c5e61",
-          "md5": "e0bd34d0a27e7583a0be2ac771eaaa8a"
+          "size": 1670591,
+          "sha512": "d3261c51cdd4e8d129c9272ecc6a413461e278aa13c9033fa98e1e85652a59e7de374b6ebdc6c3a4224b03b122daa817fe68c0037bfc8105d18a858f56c839d9",
+          "sha256": "d09c01112bdc05b0c0c35cab56868a621264b1099c0b019f68a4b4b949414c78",
+          "sha1": "2da5a3be8e87ffeb4673e8266e53b5a9d5ed1e84",
+          "md5": "fb3b8e09698acbd6a7b5dd5caa66344c"
         }
       ]
     },
@@ -106,10 +106,10 @@
           "name": "dragonlib-fabric-1.21.1-2.2.19-sources.jar",
           "url": "dragonlib-fabric-1.21.1-2.2.19-sources.jar",
           "size": 80461,
-          "sha512": "a5003a0df0e3933c86300467b5f7efb39f7c81931aa1c36d610aedc13b01be031751636778aaa8302bc9556c574cbba67575b5225219add8e781edb96ec3df0e",
-          "sha256": "ee2814bfc4507923dde3d4b8376df9edb717b4df9a41a62b56de3687513dab41",
-          "sha1": "346b0d7405201ff9452c2c54763178e0e3b2591d",
-          "md5": "765a8a522b36afbf4e216546fff3ff14"
+          "sha512": "65329f714869f9dff2e1ab0020e94e8d2e7b0197fb968b137a2e2f48ceed9f39f03832e244c6add99c722b80a3f132b5d71639816dc4fc9a417e01e4f2fceaa8",
+          "sha256": "230484057fdd12afb0f0b5cbaf74ce2bd7cbb09e95b71869e57b987e8be88b23",
+          "sha1": "d47f25ce291a2b00aa58b3ea5de24ac2907bcfbf",
+          "md5": "7773fc6c6b4b7c87de71a2dd3e6ac44e"
         }
       ]
     },
@@ -145,11 +145,11 @@
         {
           "name": "dragonlib-fabric-1.21.1-2.2.19-dev-shadow.jar",
           "url": "dragonlib-fabric-1.21.1-2.2.19-dev-shadow.jar",
-          "size": 532392,
-          "sha512": "eda21b54f1335162b2fe08d030ca047642d7afdbd7d034e7c5f87e83899fef2a7643f960324be712120d300ba688b228057188a11f771823da489e898ec8d1f7",
-          "sha256": "3544445627d4e4b3da1943394914d4e4870792ce3f9b610d4b6600b23090c8b9",
-          "sha1": "a1ff5e822586bc1445b71481bdcbb930f9042259",
-          "md5": "4f076336f9d0f20c9dd0593553b7fa88"
+          "size": 534559,
+          "sha512": "cdd48bfcd19106dc36adf2720c7ab346db61077a1d321562e155fd31b21c9ff08d3f3cd104bfe1837af9649c69b729d03c954a9ed300a8bacf9d13c85d0e1819",
+          "sha256": "f2c1b78e14d44f9e7b7d0ef8e55efe72e909e255154637b7de7805521a0ce692",
+          "sha1": "ed239ab9d6618ae0acfc464b89a52e44fd834720",
+          "md5": "b53d1d313ded424b76ede3306b9d6fe3"
         }
       ]
     }
