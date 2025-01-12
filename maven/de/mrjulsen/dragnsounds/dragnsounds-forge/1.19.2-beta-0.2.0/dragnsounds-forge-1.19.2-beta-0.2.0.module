@@ -1,0 +1,116 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.mrjulsen.dragnsounds",
+    "module": "dragnsounds-forge",
+    "version": "1.19.2-beta-0.2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-forge-1.19.2-beta-0.2.0.jar",
+          "url": "dragnsounds-forge-1.19.2-beta-0.2.0.jar",
+          "size": 1725912,
+          "sha512": "91b09e702c63d97ef643bccb3676dd625f2747e88f203474f75ae2795486ce0fac1eb2062d43527e553498b6fb50cf94a7eb4653ec6e04f2277134067c557160",
+          "sha256": "ab4f84a1eea399e704c9abbcc441cc48537d5e0901c7046e0779d21a0de0b99a",
+          "sha1": "2a519671c2280a7364dbbaed1654a4616a26b78c",
+          "md5": "bd57698a5503b99aca3f9ddfb6e1495d"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "de.mrjulsen.mcdragonlib",
+          "module": "dragonlib-forge",
+          "version": {
+            "requires": "1.19.2-2.2.24"
+          }
+        },
+        {
+          "group": "net.minecraftforge",
+          "module": "forgeconfigapiport-fabric",
+          "version": {
+            "requires": "4.2.11"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dragnsounds-forge-1.19.2-beta-0.2.0.jar",
+          "url": "dragnsounds-forge-1.19.2-beta-0.2.0.jar",
+          "size": 1725912,
+          "sha512": "91b09e702c63d97ef643bccb3676dd625f2747e88f203474f75ae2795486ce0fac1eb2062d43527e553498b6fb50cf94a7eb4653ec6e04f2277134067c557160",
+          "sha256": "ab4f84a1eea399e704c9abbcc441cc48537d5e0901c7046e0779d21a0de0b99a",
+          "sha1": "2a519671c2280a7364dbbaed1654a4616a26b78c",
+          "md5": "bd57698a5503b99aca3f9ddfb6e1495d"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-forge-1.19.2-beta-0.2.0-sources.jar",
+          "url": "dragnsounds-forge-1.19.2-beta-0.2.0-sources.jar",
+          "size": 344215,
+          "sha512": "89647bd5f9e7928cbff8f756456e25f5250a0d481a4bba5d7f0bba63dfa9312eaf9ef50d66b36a265302a48a8534595d6c704cd6e8016ea20da22587315ad3a0",
+          "sha256": "0b8fbe044e0783b1421f30509fead98553eb1288ceb3221f69868c114b2381de",
+          "sha1": "c160acddcfad26a70c075fcf746906b530472d8e",
+          "md5": "481f5695b8cb8cf875545877f532ed80"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-forge-1.19.2-beta-0.2.0-javadoc.jar",
+          "url": "dragnsounds-forge-1.19.2-beta-0.2.0-javadoc.jar",
+          "size": 86088,
+          "sha512": "eb983af4ab0ab69484b3814a3fbaa4063507dd77b65b97ee0294e8c22207ee54ff228fe366eae8190f15c0fd3560467cd11e6b817f47b45e082e6fdf5c02de74",
+          "sha256": "8d4d460644c3dc1db781b09772141fe4847b581caaf8b824dfae3119dd909cf8",
+          "sha1": "d3a8c19a4624def81707b029c53e057f832baf27",
+          "md5": "4b127518eb6fd6b7c997270adef31bcb"
+        }
+      ]
+    }
+  ]
+}

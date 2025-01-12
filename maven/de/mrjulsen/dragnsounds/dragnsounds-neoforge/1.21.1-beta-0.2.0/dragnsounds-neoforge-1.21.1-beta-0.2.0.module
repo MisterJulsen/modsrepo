@@ -1,0 +1,136 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.mrjulsen.dragnsounds",
+    "module": "dragnsounds-neoforge",
+    "version": "1.21.1-beta-0.2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.8"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-neoforge-1.21.1-beta-0.2.0.jar",
+          "url": "dragnsounds-neoforge-1.21.1-beta-0.2.0.jar",
+          "size": 1853686,
+          "sha512": "06e157994099b3c52e23c50859852796ee27508e607afef36bab9846cc29c62a8a4cd0cb338492bcf728bd628462166fe2a66c30849ec1e54809e4d52ca123ed",
+          "sha256": "fac6255a448629ac93f5736a33daf22735ff578aa5bd1b8ad842f5cba31d426b",
+          "sha1": "ad766b6d7ee07a0bf0f79879046a2c8ee2c9adc2",
+          "md5": "bc97bf8390dd9a575d27dba52541be72"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 21,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "fuzs.forgeconfigapiport",
+          "module": "forgeconfigapiport-neoforge",
+          "version": {
+            "requires": "21.1.1"
+          }
+        },
+        {
+          "group": "de.mrjulsen.mcdragonlib",
+          "module": "dragonlib-neoforge",
+          "version": {
+            "requires": "1.21.1-2.2.24"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dragnsounds-neoforge-1.21.1-beta-0.2.0.jar",
+          "url": "dragnsounds-neoforge-1.21.1-beta-0.2.0.jar",
+          "size": 1853686,
+          "sha512": "06e157994099b3c52e23c50859852796ee27508e607afef36bab9846cc29c62a8a4cd0cb338492bcf728bd628462166fe2a66c30849ec1e54809e4d52ca123ed",
+          "sha256": "fac6255a448629ac93f5736a33daf22735ff578aa5bd1b8ad842f5cba31d426b",
+          "sha1": "ad766b6d7ee07a0bf0f79879046a2c8ee2c9adc2",
+          "md5": "bc97bf8390dd9a575d27dba52541be72"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-neoforge-1.21.1-beta-0.2.0-sources.jar",
+          "url": "dragnsounds-neoforge-1.21.1-beta-0.2.0-sources.jar",
+          "size": 200619,
+          "sha512": "7a0dffe7e3dd589d251616af1a2cf039b7da66cc32cd96d4d2091f24df2c840b3b5a8324bd6f2eafbfc9640b5d20df39844a21a6af6d1eff510af12d1e3e228f",
+          "sha256": "ed98969fe749372cca2bc840075bd26a7f6a0b5718601e5f4bf251787587a3ca",
+          "sha1": "51c155fa65e4026c15e4b5a8edc363d312a2c41c",
+          "md5": "74b69745060953ef83a791569484fec5"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-neoforge-1.21.1-beta-0.2.0-javadoc.jar",
+          "url": "dragnsounds-neoforge-1.21.1-beta-0.2.0-javadoc.jar",
+          "size": 86233,
+          "sha512": "4893aea433b04021f7b17850484d4ad938bb987bf88849c79d9a8ce10c2c7c4dcde5c5325e192fd358fe4569e8a15187328f247c20c567c67bc8106f593af448",
+          "sha256": "b44e67c3478e351686d291a035e70b1e4394cd97906943d3108c9f46c0c7d086",
+          "sha1": "a9c7a6950e4f8af71396bf53a8fd1744c9f2b020",
+          "md5": "96b1e7b5f186a50734b19b2b1b2a909a"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-neoforge-1.21.1-beta-0.2.0-dev-shadow.jar",
+          "url": "dragnsounds-neoforge-1.21.1-beta-0.2.0-dev-shadow.jar",
+          "size": 492004,
+          "sha512": "7d2cf0b7757530304f0dd6bbb6ef813d746f8e6246a96f6c6a62a80b17af26f9199d4012ce5afbe4f03e6176a72e7079527b60be128cd7e44377384157e35e9b",
+          "sha256": "a96d3f00605762d1e7a373ebb2ffc9009ac9c9476d012a5b5d50f9d20d7830f6",
+          "sha1": "cf80333789cef1991e0bb3de1ad88fdccf91e3b6",
+          "md5": "9f82accdd5545cb8c9808465cabc0ae5"
+        }
+      ]
+    }
+  ]
+}

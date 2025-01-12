@@ -1,0 +1,164 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.mrjulsen.dragnsounds",
+    "module": "dragnsounds-fabric",
+    "version": "1.20.4-beta-0.2.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-fabric-1.20.4-beta-0.2.0.jar",
+          "url": "dragnsounds-fabric-1.20.4-beta-0.2.0.jar",
+          "size": 1823773,
+          "sha512": "084f9a5fc7f19d393444bf26433112c54aec5733b0c2c17923d5313fd5289ad4994016471cae661b0e574bcf72c419bd243e8951130e39edc1dcd8d1058beea3",
+          "sha256": "f681be8f9b66f6dfdd9e4b710109b47d50bfabd4850bd6626e88d5adbfa35762",
+          "sha1": "ff682a47fd2fac6e2582e24997324d22d7a458ba",
+          "md5": "9fd7d682a20cfdda0438abb2361ee95f"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.16.6"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.97.2+1.20.4"
+          }
+        },
+        {
+          "group": "fuzs.forgeconfigapiport",
+          "module": "forgeconfigapiport-fabric",
+          "version": {
+            "requires": "20.4.3"
+          }
+        },
+        {
+          "group": "de.mrjulsen.mcdragonlib",
+          "module": "dragonlib-fabric",
+          "version": {
+            "requires": "1.20.4-2.2.24"
+          }
+        },
+        {
+          "group": "eu.pb4",
+          "module": "placeholder-api",
+          "version": {
+            "requires": "2.4.0-pre.1+1.20.4"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "9.2.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dragnsounds-fabric-1.20.4-beta-0.2.0.jar",
+          "url": "dragnsounds-fabric-1.20.4-beta-0.2.0.jar",
+          "size": 1823773,
+          "sha512": "084f9a5fc7f19d393444bf26433112c54aec5733b0c2c17923d5313fd5289ad4994016471cae661b0e574bcf72c419bd243e8951130e39edc1dcd8d1058beea3",
+          "sha256": "f681be8f9b66f6dfdd9e4b710109b47d50bfabd4850bd6626e88d5adbfa35762",
+          "sha1": "ff682a47fd2fac6e2582e24997324d22d7a458ba",
+          "md5": "9fd7d682a20cfdda0438abb2361ee95f"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-fabric-1.20.4-beta-0.2.0-sources.jar",
+          "url": "dragnsounds-fabric-1.20.4-beta-0.2.0-sources.jar",
+          "size": 75542,
+          "sha512": "a534e0b997738dfd6c79857e4aa8dcd3ed0ecfcf2152141aa72d5a5ba2845b386311d843a748bbe2d7708331c2bba072427fab37efdccac5d608fa930b0da97b",
+          "sha256": "073d1b4dac760ef2060c209e08f2531aa7657aa2115aaafc8c40637bed51b4e2",
+          "sha1": "ceff0ea68e7f6f647d2f313b06c43c3b6ed08710",
+          "md5": "33bc9ef5027cbcc5117618ebf8d86720"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-fabric-1.20.4-beta-0.2.0-javadoc.jar",
+          "url": "dragnsounds-fabric-1.20.4-beta-0.2.0-javadoc.jar",
+          "size": 86655,
+          "sha512": "6002876d11f366539d64008f36b6868ffb98cf619f4bdcc2fce760843d8f0a92856e70dac26c3899e4e40efb6c73ec4d6678a92ff0db2006e984f440627bf059",
+          "sha256": "e80b49fb1693cd72ee5114003df2882417c080547ccba20b67f0b46bb6a9ff2c",
+          "sha1": "6dd78d57da545e6fda965defac44b82497abd2d9",
+          "md5": "df0b0184eb52d67446e411934941c0c0"
+        }
+      ]
+    },
+    {
+      "name": "shadowRuntimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "shadowed",
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragnsounds-fabric-1.20.4-beta-0.2.0-dev-shadow.jar",
+          "url": "dragnsounds-fabric-1.20.4-beta-0.2.0-dev-shadow.jar",
+          "size": 363319,
+          "sha512": "3340c15d2317dc136fc5a4c4eae677f86f141ec559f2dd733b72ab25cc274c4ef8cf99e373307534aef5b3c4fdb8d140be06dc66a36aa998ac923757c1d20103",
+          "sha256": "bd637c1a02514a846542568818d7acf6c4d2010b2dc32ee6070384e60c2b70e6",
+          "sha1": "e34eb763013aea65018604d4378791580b320f1e",
+          "md5": "b6bdda0ff8e472c65936dc64bbe7a2b6"
+        }
+      ]
+    }
+  ]
+}
