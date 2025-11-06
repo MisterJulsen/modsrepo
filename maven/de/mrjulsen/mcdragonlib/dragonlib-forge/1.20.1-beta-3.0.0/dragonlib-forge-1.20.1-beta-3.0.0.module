@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "de.mrjulsen.mcdragonlib",
+    "module": "dragonlib-forge",
+    "version": "1.20.1-beta-3.0.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dragonlib-forge-1.20.1-beta-3.0.0.jar",
+          "url": "dragonlib-forge-1.20.1-beta-3.0.0.jar",
+          "size": 1806218,
+          "sha512": "7b23d094fd107522cd39c0dbe66649e7a4546dfd7d724d470fb984648f4ec6de3ba10e66823c3a98ee805be3222ba32b23c14a6585f22bca90e82b2d14887d29",
+          "sha256": "44207d20e0ee337d556f8f19a55ea8041338eaf98e0e2dd42a0357a5a45c9f96",
+          "sha1": "1a027da7457ccade51a0d9e09458b88f4d312909",
+          "md5": "f9268fb3762d5207138e36f5ffabb1fe"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "dev.architectury",
+          "module": "architectury-forge",
+          "version": {
+            "requires": "9.1.12"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "time-control-303570",
+          "version": {
+            "requires": "5095704"
+          }
+        },
+        {
+          "group": "curse.maven",
+          "module": "configured-457570",
+          "version": {
+            "requires": "5180900"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "dragonlib-forge-1.20.1-beta-3.0.0.jar",
+          "url": "dragonlib-forge-1.20.1-beta-3.0.0.jar",
+          "size": 1806218,
+          "sha512": "7b23d094fd107522cd39c0dbe66649e7a4546dfd7d724d470fb984648f4ec6de3ba10e66823c3a98ee805be3222ba32b23c14a6585f22bca90e82b2d14887d29",
+          "sha256": "44207d20e0ee337d556f8f19a55ea8041338eaf98e0e2dd42a0357a5a45c9f96",
+          "sha1": "1a027da7457ccade51a0d9e09458b88f4d312909",
+          "md5": "f9268fb3762d5207138e36f5ffabb1fe"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragonlib-forge-1.20.1-beta-3.0.0-sources.jar",
+          "url": "dragonlib-forge-1.20.1-beta-3.0.0-sources.jar",
+          "size": 771788,
+          "sha512": "9a285b8a5e0ff8471acb86a9cfb959863f193b2bc8152f02aefbd653288b768107a61a18005995a1347824a6889b761ef9fdc9b0ebbad89fe200f070f7c736e7",
+          "sha256": "16c9c10c724c67a27022c485162995ca51c938cdab5ee1dc7ada22c656a08e3b",
+          "sha1": "f940eedf00ffffb9fa0c613cb81480e53e79ecce",
+          "md5": "c1265ae58c12f91bcb0bfb3bddad6177"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dragonlib-forge-1.20.1-beta-3.0.0-javadoc.jar",
+          "url": "dragonlib-forge-1.20.1-beta-3.0.0-javadoc.jar",
+          "size": 148343,
+          "sha512": "1183a1aa93ad3e8f08919d6e296c55429130fa3d5590adb4a0eea983ea3434fac6dee9e80aa0db6c8a9b8b1cd2198c42844838fcbc0d58a7cbd87af8a3281915",
+          "sha256": "1f557bebd28c8950dbe8c5a9a53d5e96e0e2ace27fb894ed80bb59d42c79fc02",
+          "sha1": "b155ecbc2631f0af95602b20d1fd82ed6f1b292f",
+          "md5": "528ad3cbe80aad65d40ff4860e1f861d"
+        }
+      ]
+    }
+  ]
+}
