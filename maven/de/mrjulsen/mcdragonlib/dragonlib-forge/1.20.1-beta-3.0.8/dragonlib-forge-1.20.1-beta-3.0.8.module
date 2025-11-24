@@ -27,11 +27,11 @@
         {
           "name": "dragonlib-forge-1.20.1-beta-3.0.8.jar",
           "url": "dragonlib-forge-1.20.1-beta-3.0.8.jar",
-          "size": 1859340,
-          "sha512": "b711ceb9d509f50cf9710e522920dae4e46646aaecdc5dffdee2d8661314a555aeb3fedb91091559a87ffb866c2d02aada339f5122e06d3e2cdbe54e96379a1f",
-          "sha256": "04efeac1be52bfbc55ce52ea20e35eca05319aeba3119649ebbbf584e32e843c",
-          "sha1": "173789f3621fb370b092366e508367e4ed07a2ed",
-          "md5": "52e45b8d9385eea7333db840f207d4a4"
+          "size": 1870517,
+          "sha512": "a11b8fdc8eec67e2e3a88559ba78599df52b1cc324bba4171d62f5f036b6f0cf0a67de1d921dcb99712a07e1718f075a7078a44b137dee818cc7ad34601308dd",
+          "sha256": "bb4ff64f030ff2ef71bda0f4d034c13a3e1beac74cdce647bd7565f50456efee",
+          "sha1": "1cce5f12930e9612c4c6307b91bcf7f50a47f609",
+          "md5": "67fca9f23f413f5821cd3a2fde2d9f01"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "dragonlib-forge-1.20.1-beta-3.0.8.jar",
           "url": "dragonlib-forge-1.20.1-beta-3.0.8.jar",
-          "size": 1859340,
-          "sha512": "b711ceb9d509f50cf9710e522920dae4e46646aaecdc5dffdee2d8661314a555aeb3fedb91091559a87ffb866c2d02aada339f5122e06d3e2cdbe54e96379a1f",
-          "sha256": "04efeac1be52bfbc55ce52ea20e35eca05319aeba3119649ebbbf584e32e843c",
-          "sha1": "173789f3621fb370b092366e508367e4ed07a2ed",
-          "md5": "52e45b8d9385eea7333db840f207d4a4"
+          "size": 1870517,
+          "sha512": "a11b8fdc8eec67e2e3a88559ba78599df52b1cc324bba4171d62f5f036b6f0cf0a67de1d921dcb99712a07e1718f075a7078a44b137dee818cc7ad34601308dd",
+          "sha256": "bb4ff64f030ff2ef71bda0f4d034c13a3e1beac74cdce647bd7565f50456efee",
+          "sha1": "1cce5f12930e9612c4c6307b91bcf7f50a47f609",
+          "md5": "67fca9f23f413f5821cd3a2fde2d9f01"
         }
       ]
     },
@@ -91,11 +91,11 @@
         {
           "name": "dragonlib-forge-1.20.1-beta-3.0.8-sources.jar",
           "url": "dragonlib-forge-1.20.1-beta-3.0.8-sources.jar",
-          "size": 789330,
-          "sha512": "619e8c359f346354ddb820555b68efd172999182fa8abe470b4eb0bcf91846932b98c2cf4c9f4b79660e8f480ced4c3ba50daa3fde67fdc4702cff49695f1f59",
-          "sha256": "37935c682003c344f7e964250a333e4e3374299ca2fb8037b1c1480283057fdd",
-          "sha1": "251f8eedfc2b8c5d079e33270313ce5369f91400",
-          "md5": "6cd645b091b156274f946ffbf10a0c49"
+          "size": 792535,
+          "sha512": "c3b1b32b42dcf53799dfa930bcea0b74c9935c431e00b9fc15752eaa7ce3afe48a724b66c1b922f0eac59792196ed2127b72264f7880ede02600c044b752694f",
+          "sha256": "afee5137a51a3d6fad984203b3bf1e1c8fe51c8cb8b7e445e65a96a3e0b2d12a",
+          "sha1": "4f302ab42044d2196d739fd6e25d88717d68f5ba",
+          "md5": "70882fd0ca8fd53ee266ef57e7d28927"
         }
       ]
     },

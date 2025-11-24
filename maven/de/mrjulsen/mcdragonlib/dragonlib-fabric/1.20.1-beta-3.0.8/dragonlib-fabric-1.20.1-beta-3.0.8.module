@@ -27,11 +27,11 @@
         {
           "name": "dragonlib-fabric-1.20.1-beta-3.0.8.jar",
           "url": "dragonlib-fabric-1.20.1-beta-3.0.8.jar",
-          "size": 2061561,
-          "sha512": "c59055a5a6998d200156f7c9e733d851727a663e0d863dcf8a2a434145e9fd6865faad86b9999cd31a632d84f9bfd913e926a31c088ba517fc9b9aa7642b3ee0",
-          "sha256": "54db2fda40d2591c4e2c2f6aed559bf8180ea6c58efd073cac0cdc783fb6cace",
-          "sha1": "a8aed7b71b48c317b4c2f8677f7cd98387d83f71",
-          "md5": "1ee121bb15418d2722ebb22b837d96f2"
+          "size": 2072714,
+          "sha512": "0306fc5aa8d4f36bf1639c64486696c48c760d9988c8a51af05a0669b5de56a91051e59bc4342224ac04cfa4101a59031f36532bff3743247e8fa47201f802a4",
+          "sha256": "ebe4cd6e6ac0ea5611bbc940c94d5d2caa0b4c8bfe4c08e7a1e91b207816183b",
+          "sha1": "2202443d568bf9736383ae68955dba85d537f6ac",
+          "md5": "9ccba4390e8da874139bf02e87ef1d82"
         }
       ]
     },
@@ -92,11 +92,11 @@
         {
           "name": "dragonlib-fabric-1.20.1-beta-3.0.8.jar",
           "url": "dragonlib-fabric-1.20.1-beta-3.0.8.jar",
-          "size": 2061561,
-          "sha512": "c59055a5a6998d200156f7c9e733d851727a663e0d863dcf8a2a434145e9fd6865faad86b9999cd31a632d84f9bfd913e926a31c088ba517fc9b9aa7642b3ee0",
-          "sha256": "54db2fda40d2591c4e2c2f6aed559bf8180ea6c58efd073cac0cdc783fb6cace",
-          "sha1": "a8aed7b71b48c317b4c2f8677f7cd98387d83f71",
-          "md5": "1ee121bb15418d2722ebb22b837d96f2"
+          "size": 2072714,
+          "sha512": "0306fc5aa8d4f36bf1639c64486696c48c760d9988c8a51af05a0669b5de56a91051e59bc4342224ac04cfa4101a59031f36532bff3743247e8fa47201f802a4",
+          "sha256": "ebe4cd6e6ac0ea5611bbc940c94d5d2caa0b4c8bfe4c08e7a1e91b207816183b",
+          "sha1": "2202443d568bf9736383ae68955dba85d537f6ac",
+          "md5": "9ccba4390e8da874139bf02e87ef1d82"
         }
       ]
     },
@@ -112,11 +112,11 @@
         {
           "name": "dragonlib-fabric-1.20.1-beta-3.0.8-sources.jar",
           "url": "dragonlib-fabric-1.20.1-beta-3.0.8-sources.jar",
-          "size": 598660,
-          "sha512": "91f433bafdca7139f92ee9de48402d1995e2d740cdec17d7e0f2f03530ee306466a7b3d149ea3a39e583bbd3a95f8da979af04a9c7b7b5ae1fee7d09ecc13925",
-          "sha256": "acb230b2b569e3fdda02ff6e93c4bb0409be6e1886a7113eff0a6ff4c593b959",
-          "sha1": "cec12d6c14bcf9ee130b12ca17722c5a21ba1162",
-          "md5": "960cc132bfc7699bdf08815e9b4fd27c"
+          "size": 601853,
+          "sha512": "0d8c478921189a1f69a22047591ba0ad8c05f351f860c55eb8ab39c41fcd438e10952152f8d0c937768fe7fbb4c3c5c364bdf3b93a1f27c2c459ddf05ef4391c",
+          "sha256": "f63c138f8fbaecab2d79111f8daf2db130081ba862f1f96dd8289fe05eef4288",
+          "sha1": "378f23664e6f0d9fddfd582cd24043ae2450aa02",
+          "md5": "b203d97281789d7be07e648768a7acd1"
         }
       ]
     },
