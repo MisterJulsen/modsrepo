@@ -27,11 +27,11 @@
         {
           "name": "dragonlib-fabric-1.20.1-beta-3.0.10.jar",
           "url": "dragonlib-fabric-1.20.1-beta-3.0.10.jar",
-          "size": 2089563,
-          "sha512": "282fc57ed3e980d98dc4ae983a36dffa5fc00d4aa929ca16b3ca4653bf22de3290ebd68f2483ec65ad84e62265eaf205614962dcbf76e14a52864051b23cedab",
-          "sha256": "53fe8b125c25d12e81527ea37b48ebd161670c16b26619d36b0645c1054a89e1",
-          "sha1": "338025516a133c2c94012419178ae844773f923d",
-          "md5": "d6776625c5858b1b042115b8d5742512"
+          "size": 2089651,
+          "sha512": "6fc52c79b59d8e046035a07eb2e1b66ca6a3c34b3174695a8b06757ddf2826a41f4f3e2f9d573788d9b303ce528b3d6447ac8d919d6bc717fe261e7f54cee57c",
+          "sha256": "35e38a756415e7d580ddde74bffd557b21963aa23f67f7eddf41b577a92ba6ad",
+          "sha1": "09d2296ae5c54ae9fe8163c85fd5829cf2756d99",
+          "md5": "7ee6e35dfe01dea88f2595d152c876ce"
         }
       ]
     },
@@ -92,11 +92,11 @@
         {
           "name": "dragonlib-fabric-1.20.1-beta-3.0.10.jar",
           "url": "dragonlib-fabric-1.20.1-beta-3.0.10.jar",
-          "size": 2089563,
-          "sha512": "282fc57ed3e980d98dc4ae983a36dffa5fc00d4aa929ca16b3ca4653bf22de3290ebd68f2483ec65ad84e62265eaf205614962dcbf76e14a52864051b23cedab",
-          "sha256": "53fe8b125c25d12e81527ea37b48ebd161670c16b26619d36b0645c1054a89e1",
-          "sha1": "338025516a133c2c94012419178ae844773f923d",
-          "md5": "d6776625c5858b1b042115b8d5742512"
+          "size": 2089651,
+          "sha512": "6fc52c79b59d8e046035a07eb2e1b66ca6a3c34b3174695a8b06757ddf2826a41f4f3e2f9d573788d9b303ce528b3d6447ac8d919d6bc717fe261e7f54cee57c",
+          "sha256": "35e38a756415e7d580ddde74bffd557b21963aa23f67f7eddf41b577a92ba6ad",
+          "sha1": "09d2296ae5c54ae9fe8163c85fd5829cf2756d99",
+          "md5": "7ee6e35dfe01dea88f2595d152c876ce"
         }
       ]
     },
@@ -112,11 +112,11 @@
         {
           "name": "dragonlib-fabric-1.20.1-beta-3.0.10-sources.jar",
           "url": "dragonlib-fabric-1.20.1-beta-3.0.10-sources.jar",
-          "size": 608196,
-          "sha512": "c885267c1f129b44a67860f36539b60b5c9b510ec9ed41cecd60b39415b4e14467d393ae0fcf1790efef690c74184b61af72143c6f4f72f62a88ca7db15a5775",
-          "sha256": "addabcd87a4e89c410e66f250af77dda883e1e5ef28088c37a0d2e787442bd19",
-          "sha1": "8046cd13e48d00b70e6a2c70a536a77143c2cf6f",
-          "md5": "4613a8fdea37dbc3eb7456e56c62a0ef"
+          "size": 608242,
+          "sha512": "e7ff525b8f59560f84e6e9431b9c2eeb9dc2b92306c0c8283fbb1559898f301de880ac0f44d972eaae8e541f9d37dd8cd1a2a9c369a456a9681ac8ac8723094a",
+          "sha256": "323b8de3bcb529c207dfa98089819c6503dbb45488cb9cded79176adc01366d0",
+          "sha1": "8238f88700d680a667ad5609ba57bd5b2ae3a89d",
+          "md5": "be82901b6621fd38b828dbb9b861bfa4"
         }
       ]
     },
@@ -132,11 +132,11 @@
         {
           "name": "dragonlib-fabric-1.20.1-beta-3.0.10-javadoc.jar",
           "url": "dragonlib-fabric-1.20.1-beta-3.0.10-javadoc.jar",
-          "size": 262160,
-          "sha512": "19e84a3c09b06a82191adf0b3133211af5fc7faeeddce711861489f42620f5d93fc46af759134e91700bf6b31affa8e96de64d9bb89354f00f11f9934043c833",
-          "sha256": "6e92ba5b7bc1bd8fc62f69221662133f8adac4479549956c3f56dc4d1ae2efe5",
-          "sha1": "ff02592e3911f66854bb53013e85eabcb831d5a9",
-          "md5": "2d4d0983445e2b370a0860da64a3d2be"
+          "size": 262291,
+          "sha512": "b5eb8d2b1b6c69febc258aebe0be1b498fcf73ca47f74e92ad0fae2134101ec9a5cee4c62877c65bad3922f325c67ce1409eaf9cd592b21c08fbb227d43cb9ea",
+          "sha256": "75add4c345d906be340fede0b964f6a3fad242116111e2e6382a4c1e29cc6428",
+          "sha1": "514769feedf6a4360246e254a68c2b2fe16856b2",
+          "md5": "dc5c14d29ba859f4d3686766de4cbad4"
         }
       ]
     }

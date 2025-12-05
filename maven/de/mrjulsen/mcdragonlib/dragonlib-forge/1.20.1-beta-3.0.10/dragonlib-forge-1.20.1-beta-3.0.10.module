@@ -27,11 +27,11 @@
         {
           "name": "dragonlib-forge-1.20.1-beta-3.0.10.jar",
           "url": "dragonlib-forge-1.20.1-beta-3.0.10.jar",
-          "size": 1886429,
-          "sha512": "11fbaee153a3780398475208aa4baa265289651fd11778cf90bcd49ba201ccca15f377d4ebef5d72d764dbaed446e21861067f8f4c1373bf2c0a24c81d47f5f3",
-          "sha256": "c478eeabb6e1323534661398656ddd113184655d072b4ae30191489c0b1ba7f7",
-          "sha1": "616415902ee90af7599cfcefa99126d71779352b",
-          "md5": "f6e2d04b268e525b1719991b09fcdfcb"
+          "size": 1886518,
+          "sha512": "388486548de040db7ed321027e8f808bbc6dce557fad4c8dff3becb69ec50e792aa33cd86bb5f31c35261b1d07fec731895dc3bfe3c7f6401c0abd487b55c702",
+          "sha256": "378c8757069dc0d132ca4cb33b5c65f73e2e18312473364a627a75fa1bc2a72e",
+          "sha1": "1ab56870ac1d298600eda1b83190f87adfac2fe6",
+          "md5": "cae8addccb792b59b4588b4f70bb83a8"
         }
       ]
     },
@@ -71,11 +71,11 @@
         {
           "name": "dragonlib-forge-1.20.1-beta-3.0.10.jar",
           "url": "dragonlib-forge-1.20.1-beta-3.0.10.jar",
-          "size": 1886429,
-          "sha512": "11fbaee153a3780398475208aa4baa265289651fd11778cf90bcd49ba201ccca15f377d4ebef5d72d764dbaed446e21861067f8f4c1373bf2c0a24c81d47f5f3",
-          "sha256": "c478eeabb6e1323534661398656ddd113184655d072b4ae30191489c0b1ba7f7",
-          "sha1": "616415902ee90af7599cfcefa99126d71779352b",
-          "md5": "f6e2d04b268e525b1719991b09fcdfcb"
+          "size": 1886518,
+          "sha512": "388486548de040db7ed321027e8f808bbc6dce557fad4c8dff3becb69ec50e792aa33cd86bb5f31c35261b1d07fec731895dc3bfe3c7f6401c0abd487b55c702",
+          "sha256": "378c8757069dc0d132ca4cb33b5c65f73e2e18312473364a627a75fa1bc2a72e",
+          "sha1": "1ab56870ac1d298600eda1b83190f87adfac2fe6",
+          "md5": "cae8addccb792b59b4588b4f70bb83a8"
         }
       ]
     },
@@ -91,11 +91,11 @@
         {
           "name": "dragonlib-forge-1.20.1-beta-3.0.10-sources.jar",
           "url": "dragonlib-forge-1.20.1-beta-3.0.10-sources.jar",
-          "size": 798254,
-          "sha512": "b529b56934f1853b4722b9227da7f9a03167ab701132813c783f1cdfa6909feeb071515bb593ae1bb8c7491196851ec1e33b03d3e6135f0fde9c32304d7d9d9d",
-          "sha256": "2d48c2409a87b566261661f2a8a64409340bd120a057a25b7d0e829120d7d011",
-          "sha1": "684c1e6b41fca32a1369369bbf5a5e2009722ad4",
-          "md5": "daf5fbfbeaf2267fad7e3e30248e09f3"
+          "size": 798300,
+          "sha512": "c4ee2930f0d2c7d95bb7c244656f654845f38288ee05b8d5f036174b101b0b91b945dd85834882a050d5bb1110983e4259666bd54d7e09c3c74263594cb2f039",
+          "sha256": "149e088429ed6ac96fc363d4acac421a2e2f11c4f411cdf9d186352e7d1b4109",
+          "sha1": "a46acd76c0e3e169be3e57aa38242878d3801803",
+          "md5": "05d5c020e1187b469301bf37b2539a11"
         }
       ]
     },
@@ -111,11 +111,11 @@
         {
           "name": "dragonlib-forge-1.20.1-beta-3.0.10-javadoc.jar",
           "url": "dragonlib-forge-1.20.1-beta-3.0.10-javadoc.jar",
-          "size": 148206,
-          "sha512": "ea188a0ae5393cbe017c711170a0c5938e9e60d92b468734e70ce1aa97ed11a172077f3ea138d0ccfef9281650d814b5dcf1581adfbfcfe0a8e42736b355ef10",
-          "sha256": "66613e444937197953b1676aba448c3424babd95247fe958fb1bc6b0f51f4425",
-          "sha1": "8ce0681f7513ffe5bdb2e0169abe84eca30fe143",
-          "md5": "1f266574bdad29cb4b86634924f24d37"
+          "size": 148337,
+          "sha512": "a6870fe98d8e1f1debdcf4aca1b1cb2f194ca9b0f6a9349f7aef3fb99fe1ba8458523034e039865661848b0663d62f01330891ddf9f051407d370c6751892d43",
+          "sha256": "2490c274411464118499608eb1bbf77e580b196b1cefea49105cd2be3aa6a786",
+          "sha1": "d818837f205643bbef9d11c713ebe3588a9bc676",
+          "md5": "c027be85577ed31a8690cb982cde3d4f"
         }
       ]
     }
